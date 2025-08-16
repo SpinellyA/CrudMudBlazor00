@@ -1,0 +1,2 @@
+wwwroot\favicon.ico
+C:\Users\alexs\source\repos\CrudMudBlazor\CrudMudBlazor\CrudMudBlazor\wwwroot\favicon.ico

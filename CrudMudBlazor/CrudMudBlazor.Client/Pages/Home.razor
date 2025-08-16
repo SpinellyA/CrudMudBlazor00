@@ -1,0 +1,148 @@
+﻿@page "/"
+@inject HttpClient Http
+@inject ISnackbar Snackbar
+
+<PageTitle>Home</PageTitle>
+
+
+<MudExpansionPanels Elevation="1" Dense="true">
+        <MudExpansionPanel Text="Add Party Type">
+        <MudTextField T="string" Label="Name" @bind-Value="NameInput"></MudTextField>
+        <MudTextField T="string" Label="Description" @bind-Value="DescriptionInput"></MudTextField>
+
+        <MudSpacer />
+
+        <MudButton OnClick="ButtonAction" Color="Color.Primary" Variant="Variant.Filled" Class="mt-7 mb-7">Add Party Type</MudButton>
+    </MudExpansionPanel>
+    <MudExpansionPanel Text="Add Person">
+        <MudForm>
+            <MudTextField @bind-Value="NameInput" T="string" Label="Name" />
+            <MudTextField @bind-Value="DescriptionInput" T="string" Label="Description" Class="mb-5"/>
+            <MudTextField @bind-Value="FirstNameInput" T="string" Label="First Name" />
+            <MudTextField @bind-Value="LastNameInput" T="string" Label="Last Name" />
+            <MudDatePicker Label="Birthdate" @bind-Value="DatePicked"/>
+            <MudButton OnClick="AddPersonButton" Color="Color.Primary" Variant="Variant.Filled" Class="mt-7 mb-7">Add Person</MudButton>
+        </MudForm>
+    </MudExpansionPanel>
+
+    <MudExpansionPanel Text="Add Organization"> 
+        <MudForm>
+            <MudTextField @bind-Value="NameInput" T="string" Label="Name" />
+            <MudTextField @bind-Value="DescriptionInput" T="string" Label="Description" Class="mb-5"/>
+            <MudTextField @bind-value="OfficialNameInput" T="string" Label="Official Name" />
+            <MudDatePicker Label="Founding Date" @bind-Value="DatePicked"/>
+            <MudButton OnClick="AddOrganizationButton" Color="Color.Primary" Variant="Variant.Filled" Class="mt-7 mb-7">Add Organization</MudButton>
+        </MudForm>
+    </MudExpansionPanel>
+</MudExpansionPanels>
+
+
+
+@code {
+    private bool isPartyTypeExpanded;
+    private bool isOrgExpanded;
+    private bool isPersonExpanded;
+
+
+
+
+    public string FirstNameInput { get; set; }
+    public string LastNameInput { get; set; }
+    public string FoundingName { get; set; }
+    public DateTime DatePicked { get; set; }
+
+    public string OfficialNameInput { get; set; }
+
+    public string NameInput { get; set; }
+    public string DescriptionInput { get; set; }
+
+
+    //  private void OnExpandedChanged(bool expanded, string panel) WHATEVER
+    // {
+    //     if (!expanded)
+    //     {
+    //         switch (panel)
+    //         {
+    //             case "partytype":
+    //                 NameInput = string.Empty;
+    //                 DescriptionInput = string.Empty;
+    //                 break;
+    //             case "org":
+    //                 NameInput = string.Empty;
+    //                 DescriptionInput = string.Empty;
+    //                 OfficialNameInput = string.Empty;
+    //                 break;
+    //         }
+    //     }
+    // }
+
+
+    public async Task AddPersonButton()
+    {
+        var payload = new
+        {
+            FirstName = FirstNameInput,
+            LastName = LastNameInput,
+            DateBirth = DatePicked,
+            Name = NameInput,
+            Description = DescriptionInput,
+        };
+
+        var response = await Http.PostAsJsonAsync("/api/person/add", payload);
+
+        if(response.IsSuccessStatusCode)
+        {
+            Snackbar.Add("It was a success.");
+        } else
+        {
+            Snackbar.Add("Something went wrong.");
+        }
+
+    }
+
+    public async Task AddOrganizationButton()
+    {
+        var payload = new
+        {
+            OfficialName = OfficialNameInput,
+            DateBirth = DatePicked,
+            Name = NameInput,
+            Description = DescriptionInput,
+        };
+
+        var response = await Http.PostAsJsonAsync("/api/organization/add", payload);
+        if(response.IsSuccessStatusCode)
+        {
+            Snackbar.Add("It was a success.");
+        } else
+        {
+            Snackbar.Add("Something went wrong.");
+        }
+    }
+
+    public async Task ButtonAction()
+    {
+        var payload = new
+        {
+            Name = NameInput,
+            Description = DescriptionInput
+        };
+
+        var response = await Http.PostAsJsonAsync("/api/ptype/add", payload);
+
+        if(response.IsSuccessStatusCode)
+        {
+            Snackbar.Add("It was a success.");
+        } else
+        {
+            Snackbar.Add("Something went wrong.");
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        
+    }
+    
+
+}

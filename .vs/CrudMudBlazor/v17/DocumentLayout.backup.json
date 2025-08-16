@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\models\\party.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\models\\partytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\models\\partytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\services\\partyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\services\\partyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\endpoints\\addpersonendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\endpoints\\addpersonendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\endpoints\\addorganizationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\endpoints\\addorganizationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\endpoints\\addpartytypeendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\endpoints\\addpartytypeendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\data\\partydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\data\\partydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\services\\ipartyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\services\\ipartyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor.client\\crudmudblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{93344C41-6729-41CD-B814-F445F5D855B6}|CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj|solutionrelative:crudmudblazor\\crudmudblazor.client\\crudmudblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|c:\\users\\alexs\\source\\repos\\crudmudblazor\\crudmudblazor\\crudmudblazor\\crudmudblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C79BEE9D-4323-4403-8E08-279EAC08AA73}|CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj|solutionrelative:crudmudblazor\\crudmudblazor\\crudmudblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddOrganizationEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddOrganizationEndpoint.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddOrganizationEndpoint.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddOrganizationEndpoint.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddOrganizationEndpoint.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T13:59:33.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPersonEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPersonEndpoint.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPersonEndpoint.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPersonEndpoint.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPersonEndpoint.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T18:25:25.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Home.razor",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Home.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:29:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartyService.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Services\\PartyService.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Services\\PartyService.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Services\\PartyService.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Services\\PartyService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:40:54.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Weather.razor",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:37:33.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPartyTypeEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPartyTypeEndpoint.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPartyTypeEndpoint.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPartyTypeEndpoint.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Endpoints\\AddPartyTypeEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:42:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Models\\Organization.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\Organization.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:06:07.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Party.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\Party.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Models\\Party.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\Party.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Models\\Party.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:03:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartyType.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\PartyType.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Models\\PartyType.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\PartyType.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Models\\PartyType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:59:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Models\\Person.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:04:16.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\_Imports.razor",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T16:58:53.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Routes.razor",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\Routes.razor",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Routes.razor",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:52:24.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Data\\PartyDbContext.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Data\\PartyDbContext.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Data\\PartyDbContext.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Data\\PartyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:08:52.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:38:42.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPartyService.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Services\\IPartyService.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Services\\IPartyService.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Services\\IPartyService.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Services\\IPartyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T17:25:13.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Program.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\Program.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:58:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Program.cs",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T16:51:45.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CrudMudBlazor.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor.Client\\CrudMudBlazor.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T17:20:55.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\Components\\App.razor",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-15T17:34:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CrudMudBlazor.csproj",
+              "DocumentMoniker": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj",
+              "RelativeDocumentMoniker": "CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj",
+              "ToolTip": "C:\\Users\\alexs\\source\\repos\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj",
+              "RelativeToolTip": "CrudMudBlazor\\CrudMudBlazor\\CrudMudBlazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-15T16:51:49.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "x-generator": "NSwag v14.4.0.0 (NJsonSchema v11.3.2.0 (Newtonsoft.Json v13.0.0.0))",
+  "swagger": "2.0",
+  "info": {
+    "title": "My Title",
+    "version": "1.0.0"
+  },
+  "consumes": [
+    "application/json"
+  ],
+  "paths": {
+    "/api/organization/add": {
+      "post": {
+        "operationId": "CrudMudBlazorEndpointsAddOrganizationEndpoint",
+        "parameters": [
+          {
+            "name": "AddOrganizationRequest",
+            "in": "body",
+            "required": true,
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/AddOrganizationRequest"
+            },
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        }
+      }
+    },
+    "/api/ptype/add": {
+      "post": {
+        "operationId": "CrudMudBlazorEndpointsAddPartyTypeEndpoint",
+        "parameters": [
+          {
+            "name": "PartyTypeRequest",
+            "in": "body",
+            "required": true,
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/PartyTypeRequest"
+            },
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        }
+      }
+    },
+    "/api/person/add": {
+      "post": {
+        "operationId": "CrudMudBlazorEndpointsAddPersonEndpoint",
+        "parameters": [
+          {
+            "name": "AddPersonRequest",
+            "in": "body",
+            "required": true,
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/AddPersonRequest"
+            },
+            "x-nullable": false
+          }
+        ],
+        "responses": {
+          "204": {
+            "description": ""
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "AddOrganizationRequest": {
+      "type": "object",
+      "required": [
+        "officialName",
+        "dateBirth",
+        "name",
+        "description"
+      ],
+      "properties": {
+        "officialName": {
+          "type": "string"
+        },
+        "dateBirth": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    },
+    "PartyTypeRequest": {
+      "type": "object",
+      "required": [
+        "name",
+        "description"
+      ],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    },
+    "AddPersonRequest": {
+      "type": "object",
+      "required": [
+        "firstName",
+        "lastName",
+        "dateBirth",
+        "name",
+        "description"
+      ],
+      "properties": {
+        "firstName": {
+          "type": "string"
+        },
+        "lastName": {
+          "type": "string"
+        },
+        "dateBirth": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "name": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

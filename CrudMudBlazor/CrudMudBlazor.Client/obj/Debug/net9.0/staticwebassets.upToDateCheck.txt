@@ -1,0 +1,4 @@
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+C:\Users\alexs\source\repos\CrudMudBlazor\CrudMudBlazor\CrudMudBlazor.Client\wwwroot\appsettings.Development.json
+C:\Users\alexs\source\repos\CrudMudBlazor\CrudMudBlazor\CrudMudBlazor.Client\wwwroot\appsettings.json
